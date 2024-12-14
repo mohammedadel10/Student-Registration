@@ -66,4 +66,27 @@ Student-Registration/
 │   ├── styles.css
 │   └── script.js
 └── server.js
+```
+
+- `index.html`: The main HTML file for the application.
+- `styles.css`: The CSS file for styling the application.
+- `script.js`: The JavaScript file for application logic.
+- `server.js`: The Node.js server file (if using API).
+
+## 🛠️ Built With
+
+- **HTML5**: Markup language for creating the structure of the web pages.
+- **CSS3**: Stylesheet language for designing the layout and appearance of the web pages.
+- **JavaScript**: Programming language for adding interactivity to the web pages.
+- **Node.js**: JavaScript runtime for building the server-side API.
+- **Express**: Web framework for Node.js.
+
+## 👥 Team Members
+
+This project was created by the following amazing team members:
+
+- **Adham Khaled**
+- **Mohamed Adel**
+- **Ahmed Hamdi**
+- **Abdallah Bayomiy**
 
