@@ -7,6 +7,7 @@ const editIndexInput = document.getElementById('edit-index');
 const searchInput = document.getElementById('search');
 let records = [];
 
+
 async function fetchRecords(searchTerm = '') {
   const response = await fetch('/api/records');
   records = await response.json();
@@ -77,3 +78,4 @@ recordForm.addEventListener('submit', async function (e) {
 });
 
 "Adham Display and Listener" 
+"backend code" 
